@@ -1,0 +1,109 @@
+.hand {
+        cursor:hand;
+        font-family: Verdana, Arial, Sans serif;
+        font-size: 10px;
+        color: #000000;
+        font-weight: normal;
+        text-decoration: none;
+}
+.hand A:HOVER {
+        font-family: Verdana, Arial, Sans serif;
+        font-size: 10px;
+        color: #000000;
+        font-weight: bold;
+        text-decoration: none;
+}
+
+.textopreto {
+        font-family: Verdana, Arial, Sans serif;
+        font-size: 10px;
+        color: #000000;
+        font-weight: normal;
+        text-decoration: none;
+}
+
+.textobranco {
+        font-family: Verdana, Arial, Sans serif;
+        font-size: 10px;
+        color: #FFFFFF;
+        font-weight: bold;
+        text-decoration: none;
+}
+
+.link1 {
+        font-family: Verdana, Arial, Sans serif;
+        font-size: 10px;
+        color: #000000;
+        text-decoration: none;
+}
+.link1 A:HOVER {
+        color: #CCCCCC;
+        font-weight: normal;
+        text-decoration: none;
+}
+
+
+
+.linknetscape {
+        font-family: Verdana, Arial, Sans serif;
+        font-size: 9px;
+        color: #000000;
+        text-decoration: none;
+}
+.linknetscape A:HOVER {
+        font-family: Verdana, Arial, Sans serif;
+        font-size: 9px;
+        color: #FFFFFF;
+        text-decoration: none;
+}
+
+
+.link2 {
+        font-family: Verdana, Arial, Sans serif;
+        font-size: 10px;
+        color: #000000;
+        text-decoration: none;
+}
+.link2 A:HOVER {
+        color: #999999;
+        text-decoration: none;
+}
+
+.link3 {
+        font-family: Verdana, Arial, Sans serif;
+        font-size: 10px;
+        color: red;
+        font-weight: bold;
+}
+.link3 A:HOVER {
+        color: #000000;
+        font-weight: bold;
+}
+
+.usuario A:HOVER {
+        color: #000000;
+        font-weight: bold;
+}
+
+.data {
+        font-family: Verdana, Arial, Sans serif;
+        font-size: 10px;
+        color: #FFFFFF;
+        text-decoration: none;
+        font-weight: normal;
+}
+.data A:HOVER {
+        color: #999999;
+        text-decoration: bold;
+}
+
+.f2 {
+        font-family: Verdana, Arial, Sans serif;
+        font-size: 12px;
+        color: #000000;
+        text-decoration: none;
+}
+.f2 A:HOVER {
+        color: #999999;
+        text-decoration: none;
+}
